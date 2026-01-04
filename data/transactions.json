@@ -1,0 +1,16 @@
+[
+  {
+    "id": "841dc8cd-ab17-4fa8-9129-c78c16cd9d24",
+    "type": "expense",
+    "category": "food",
+    "amount": 200,
+    "date": "2025-01-10"
+  },
+  {
+    "id": "9b9e9ab5-2960-4673-967c-da61e57cc692",
+    "type": "income",
+    "category": "travel",
+    "amount": 1000,
+    "date": "2025-01-10"
+  }
+]
